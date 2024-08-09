@@ -1,4 +1,4 @@
-# Credit Card Fraud Detection Project
+# Credit Card Fraud Detection
 
 ## Algorithm: Random Forest Supervised Machine Learning Algorithm
 Random Forest is a supervised machine learning algorithm based on ensemble learning principles. It combines multiple decision trees to make predictions, resulting in robust and accurate models.
